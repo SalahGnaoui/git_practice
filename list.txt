@@ -1,14 +1,16 @@
-FRUITS
-banana
-apples
-orages
-
-MILKS
-
-
-MEETS 
-
-
-
-
-CHEESE
+FRUITS:
+Banana
+Apples
+Oranges
+MILKS:
+Cow's Milk
+Almond Milk
+Soy Milk
+MEATS:
+Chicken
+Beef
+Pork
+CHEESE:
+Cheddar
+Mozzarella
+Feta
